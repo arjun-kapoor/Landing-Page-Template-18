@@ -1,0 +1,241 @@
+@media only screen and (min-width: 901px) and (max-width: 1024px) {
+	
+	.container{
+		padding:0 9px;
+	}
+	
+	.wht2get{
+		right:0;
+	}
+	
+	ul.gtW li{
+		width:163px;
+		padding-right:9px;
+		padding-bottom:23px;
+	}
+	
+	ul.gtW li.snd{
+		width:163px;
+	}
+	
+	.expad{
+		padding: 0 24px 0 25px;
+	}
+	
+	.allUse ul{
+		text-align:left;
+	}
+	
+	.allUse ul li{
+		padding-bottom:8px;
+	}
+	
+	.allUse ul li img{
+		width:66px;
+	}
+	
+	p.get2{
+		font-size:60px;
+	}
+	
+	.guarntee{
+		left:-96px;
+	}
+	
+	.pure-form-stacked .l-box{
+		padding-right:0;	
+	}
+}
+
+@media only screen and (min-width: 751px) and (max-width: 900px) {
+	
+	.container{
+		padding:0 9px;
+	}
+	
+	p.get2{
+		font-size:58px;
+	}
+	
+	.guarntee{
+		left:-108px;
+	}
+	
+	.padTop1{
+		padding:6px 0 0 0;
+	}
+	
+	.logopad{
+		padding-bottom:90px;
+	}
+	
+	.ext751 .pure-u-sm-1-2{
+		width:100%;
+		display:block;
+	}
+	
+	.ext751 .pure-u-sm-1-2{
+		width:100%;
+		display:block;
+	}
+	
+	.expad{
+		padding:30px 0 0 0;
+	}
+	
+	.tesimonials9{
+		padding-bottom:60px;
+	}
+	
+	ul.gtW li{
+		width:304px;
+	}
+	
+	ul.gtW li.snd{
+		width:300px;
+	}
+	
+	.wht2get{
+		right:0;
+	}
+	
+	.bodyCont{
+		padding-top:62px;
+	}
+	
+	.allUse{
+		width:466px;
+		margin:0 auto;
+	}
+	
+	p.get{
+		padding-bottom:27px;
+	}
+	
+	.pure-form-stacked .l-box{
+		padding-right:0;	
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	.contIns1{
+		padding-left:10px;
+		padding-right:10px;	
+	}
+	.container{
+		padding:0 9px;
+	}
+	
+	a.logo{
+		margin:0 auto;
+	}
+	
+	p.get{
+		text-align:center;
+	}
+	
+	p.get2{
+		text-align:center;
+		font-size:50px;
+		padding-bottom:15px;
+	}
+	
+	.padTop1{
+		padding-top:0;
+	}
+	
+	p.get2 span{
+		font-size:30px;
+	}
+	
+	p.get3{
+		padding-right:0;
+		text-align:center;
+		font-size:15px;
+		padding-bottom:15px;
+	}
+	
+	p.get4{
+		text-align:center;
+		padding-bottom:50px;
+	}
+	
+	.totbanPanelIns{
+		background-size:cover;
+	}
+	
+	.guarntee{
+		left:-6px;
+	}
+	
+	.bodyCont{
+		padding-top:64px;
+	}
+	
+	.expadInsNw{
+		padding-left:0;
+	}
+	
+	.ext751 .pure-u-sm-1-2{
+		width:100%;
+		display:block;
+	}
+	
+	.ext751 .pure-u-sm-1-2{
+		width:100%;
+		display:block;
+	}
+	
+	ul.gtW li{
+		width:147px;
+	}
+	
+	.fotlogo{
+		margin-bottom:15px;
+	}
+	
+	.linkcpy ul li{
+		padding-right:3px;
+	}
+	
+	.linkcpy ul li a{
+		margin-left:3px;
+	}
+	
+	.socialIcons ul{
+		text-align:left;
+		padding:10px 0 0;
+	}
+	
+	.tesimonials9 img{
+		float:none;
+		display:block;
+		margin:0 auto;
+	}
+	
+	.tesimonials9 p{
+		padding-right:0;
+	}
+	
+	.pure-form-stacked .l-box{
+		padding-right:0;	
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.socialIcons ul{
+		text-align:left;
+		margin-top:10px;	
+	}
+	.pure-button-primary{
+		font-size:20px;	
+	}
+	
+	.pure-g.fbTable, .pure-g.widget{ width:270px; margin:0px auto;}{ width:270px; margin:0px auto;}
+	.pure-form input[type]{
+	width:100%;
+	}
+	.pure-table{
+	width:100%;
+	}
+}
